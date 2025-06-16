@@ -1,0 +1,2 @@
+class CNNBlock(nn.Module ):
+  
